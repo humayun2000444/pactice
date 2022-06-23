@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pactice/static/css/main.53251338.css",
+    "main.js": "/pactice/static/js/main.ff277f45.js",
+    "static/js/787.b10fd08e.chunk.js": "/pactice/static/js/787.b10fd08e.chunk.js",
+    "index.html": "/pactice/index.html",
+    "main.53251338.css.map": "/pactice/static/css/main.53251338.css.map",
+    "main.ff277f45.js.map": "/pactice/static/js/main.ff277f45.js.map",
+    "787.b10fd08e.chunk.js.map": "/pactice/static/js/787.b10fd08e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53251338.css",
+    "static/js/main.ff277f45.js"
+  ]
+}
